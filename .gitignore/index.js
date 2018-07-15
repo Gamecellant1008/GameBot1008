@@ -2666,4 +2666,4 @@ function chrono() {
     return [Math.round(tempsMs % 60000/1000), Math.floor(tempsMs % 3600000/60000), Math.floor(tempsMs/3600000)].map(x => (x < 10 ? "0" : "") + x)
 }
 
-client.login("NDM3NzI5NzQzNjU2MTg5OTU0.DdigxQ.3TNoQUj4bXHtBeMXGnpGOeXiugQ");01
+client.login({process.env.TOKEN});01
