@@ -1,0 +1,23 @@
+{
+  "accueil": [
+    {
+      "serveur": "292771475356647426",
+      "action": "on"
+    },
+    {
+      "serveur": "445958150894518273",
+      "action": "off"
+    }
+  ],
+  "aurevoir": [
+    {
+      "serveur": "292771475356647426",
+      "action": "on"
+    },
+    {
+      "serveur": "445958150894518273",
+      "action": "off"
+    }
+  ],
+  "travail": []
+}
